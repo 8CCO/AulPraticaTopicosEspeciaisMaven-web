@@ -1,4 +1,4 @@
-//package org.primefaces.showcase.view.ajax;
+package br.com.bilac.topicosespeciais;
  
 import javax.faces.bean.ManagedBean;
  
